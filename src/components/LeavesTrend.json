@@ -1,0 +1,38 @@
+[
+    {
+        "month": "January",
+        "annual_leaves": 5,
+        "sick_leaves": 2
+      },
+    {
+        "month":"February",
+        "annual_leaves": 4,
+        "sick_leaves": 3
+      },
+      {
+        "month": "March",
+        "annual_leaves": 6,
+        "sick_leaves": 1
+      },
+      {
+        "month": "April",
+        "annual_leaves": 2,
+        "sick_leaves": 7
+      },
+      {
+        "month": "May",
+        "annual_leaves": 4,
+        "sick_leaves": 1
+      },
+      {
+        "month": "June",
+        "annual_leaves": 3,
+        "sick_leaves": 2
+      },
+      {
+        "month": "July",
+        "annual_leaves": 5,
+        "sick_leaves": 1
+      }
+]
+  

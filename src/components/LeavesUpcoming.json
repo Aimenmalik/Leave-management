@@ -1,0 +1,33 @@
+[
+    {
+      "leave_type": "Annual",
+      "dates": "24/01/2024 - 25/01/2024",
+      "no_of_days": 1,
+      "approved_by": "John Doe"
+    },
+    {
+      "leave_type": "Annual",
+      "dates": "15/02/2024 - 17/02/2024",
+      "no_of_days": 3,
+      "approved_by": "Jane Smith"
+    },
+    {
+      "leave_type": "Annual",
+      "dates": "10/03/2024 - 11/03/2024",
+      "no_of_days": 2,
+      "approved_by": "Alice Johnson"
+    },
+    {
+      "leave_type": "Annual",
+      "dates": "05/04/2024 - 07/04/2024",
+      "no_of_days": 3,
+      "approved_by": "Bob Anderson"
+    },
+    {
+      "leave_type": "Annual",
+      "dates": "20/05/2024 - 21/05/2024",
+      "no_of_days": 1,
+      "approved_by": "Emily Brown"
+    }
+  ]
+  
